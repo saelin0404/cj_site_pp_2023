@@ -16,7 +16,7 @@ a{text-decoration: none; color: #000;}
 @media screen and (max-width:768px){
   body{min-width: 730px;}
   body.on{position: fixed; left: 0; top: 0; width: 100%; height: 100%;}
-  div.bg.on{z-index: 90; position: absolute; left: 0; top: 0; width: 1005; height: 100%; background: rgba(0,0,0,0,0.8);}
+  div.bg.on{z-index: 90; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8);}
 
   /* lay out */
   #header{z-index: 40; position: relative; width: 100%; height: 54px;}
@@ -180,7 +180,7 @@ a{text-decoration: none; color: #000;}
 
   /* content */
   .content2_inner>h2{font-size: 34px; color: #222; text-align: center; font-family:cj_onlyone_medium; margin: 70px 0; padding-top: 70px;}
-  .content2_inner>article{ overflow: hidden; background: #fff; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0,0.1); letter-spacing: 0;}
+  .content2_inner>article{ overflow: hidden; background: #fff; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0.1); letter-spacing: 0;}
   .content2_inner>article>div{
     position: absolute; top: 100%; background: #fff; width: 100%; height: 100%;
     display: flex; flex-direction: column; align-items: center; justify-content: center;
@@ -533,7 +533,7 @@ a{text-decoration: none; color: #000;}
   /* content2 */
   .content2_inner>h2{font-size: 34px; color: #222; text-align: center; font-family:cj_onlyone_medium; margin: 70px 0; padding-top: 70px;}
   .content2_inner>article{
-    overflow: hidden; background: #fff; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0,0.1);
+    overflow: hidden; background: #fff; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0.1);
     letter-spacing: 0;}
   .content2_inner>article>div{
     position: absolute; top: 100%; background: #fff; width: 100%; height: 100%;
@@ -900,7 +900,7 @@ a{text-decoration: none; color: #000;}
 
   .content2_inner>h2{font-size: 34px; color: #222; text-align: center; font-family:cj_onlyone_medium; margin: 70px 0;}
   .content2_inner>article{
-    overflow: hidden; background: #fff; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0,0.1);
+    overflow: hidden; background: #fff; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0.1);
     letter-spacing: 0;}
   .content2_inner>article>div{
     position: absolute; top: 100%; background: #fff; width: 100%; height: 100%;
